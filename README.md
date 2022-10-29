@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yuri-Santiago, I'm a Bachelor of Computer Engineering at IFCE - Campus Fortaleza in Ceará, Brazil.
+- 👀 I'm currently working in the Embedded area, with C++ and the Qt Framework at Instituto Iracema.
+- 🌱 I'm an intermediate level in C++, but learning a lot from the books of two authors mostly: Bjarne Stroustrup and Scott Meyers.
+- 📫 If you want to contact me, send an email to: yurimateussantiago@gmail.com.
